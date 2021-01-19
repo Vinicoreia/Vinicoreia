@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=vinicoreia.vinicoreia)
+
 ### Hello, is it me you're looking for? 🎶
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-filgueiras/)](https://www.linkedin.com/in/vinicius-filgueiras/)
 [![Gmail Badge](https://img.shields.io/badge/-viniciusfilgf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfilgf@gmail.com)](mailto:viniciusfilgf@gmail.com)
