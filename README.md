@@ -29,3 +29,8 @@ I'm Vinicius, you can call me Vini if you prefer, I'm a Brazilian living in Luxe
 - 🤔💭 My current life philosophy is to focus on the process not the goal.
 - 💬 Ask me about anything.
 
+### Skills
+
+### Soft Skills
+
+### What I love
