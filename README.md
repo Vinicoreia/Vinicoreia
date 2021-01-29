@@ -28,8 +28,8 @@ Javascript, Angular, Git, Docker, Vue.js, Node.js, Java, Html, css
 - Teamwork
   
 ### What I love
-
-<img src="https://www.flaticon.com/svg/vstatic/svg/3884/3884879.svg?token=exp=1611955003~hmac=2fc616b3cf1beaa2b21967c5a45feb9b" alt="hackerrank" style="height: 40px; width: 60px; vertical-align:top; margin:4px">
-<img src="https://www.flaticon.com/svg/vstatic/svg/3886/3886683.svg?token=exp=1611955188~hmac=74975d54b3eaa39572efcc21bdb6301a" alt="hackerrank" style="height: 40px; width: 60px; vertical-align:top; margin:4px">
-  
+<div>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3884/3884879.svg?token=exp=1611955003~hmac=2fc616b3cf1beaa2b21967c5a45feb9b" width="60">&nbsp;&nbsp;&nbsp;
+<img src="https://www.flaticon.com/svg/vstatic/svg/3886/3886683.svg?token=exp=1611955188~hmac=74975d54b3eaa39572efcc21bdb6301a" width="60">
+</div>
 Attribution: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
