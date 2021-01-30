@@ -17,7 +17,7 @@ I'm Vinicius, you can call me Vini if you prefer, I'm a Brazilian living in Luxe
 - 💬 Ask me about anything.
 
 ### Technologies I've been working with
-Javascript, Angular, Git, Docker, Vue.js, Node.js, Java, Html, css
+![Git](https://img.shields.io/badge/--black?style=flat-square&logo=git) ![Javascript](https://img.shields.io/badge/--black?logo=Javascript) ![Angular](https://img.shields.io/badge/--black?style=flat-square&logo=angular) ![Docker](https://img.shields.io/badge/--black?style=flat-square&logo=docker) ![Node](https://img.shields.io/badge/--black?style=flat-square&logo=node.js) ![Java](https://img.shields.io/badge/--black?style=flat-square&logo=java) ![html](https://img.shields.io/badge/--black?style=flat-square&logo=html5) ![css](https://img.shields.io/badge/--black?style=flat-square&logo=css3)
 
 ### Soft Skills
 - Open-minded
